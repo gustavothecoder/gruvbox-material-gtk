@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Gruvbox-Material-Soft
+Comment=Gruvbox Material theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Gruvbox-Material-Soft
+MetacityTheme=Gruvbox-Material-Soft
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
